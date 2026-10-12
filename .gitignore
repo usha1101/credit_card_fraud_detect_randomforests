@@ -1,0 +1,15 @@
+# Large Datasets
+creditcard.csv
+*.csv
+*.zip
+data/
+
+# Jupyter & Python cache
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Virtual Environments
+venv/
+.venv/
+env/
